@@ -1,0 +1,124 @@
+*{
+  padding: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url("dark-wood.jpg");
+  color: #666666;
+}
+
+#tong {
+  margin: auto;
+  width: 940px;
+}
+#anh {
+  width: 940px;
+  height: 120px;
+
+}
+#menu {
+  width: 940px;
+  height: 30px;
+  background-color: #888888;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+li {
+  display: inline;
+padding: 10px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+#vb1{
+  float: left;
+  width: 30%;
+  height: 450px;
+  background-color: white;
+}
+#anh1{
+  border: 1px solid #cccccc ;
+  padding: 5px;
+margin: 10px;
+
+
+}
+#anh2{
+  border: 1px solid #cccccc ;
+  padding: 5px;
+  margin: 10px;
+  margin-top: 30px;
+}
+#vb{
+  background-color: white;
+
+}
+#vb2{
+  float: left;
+  width: 50%;
+  height: 450px;
+  background-color: white;
+  border-right: 1px solid #cccccc;
+
+}
+#vb3{
+  float: right;
+  width: 20%;
+  height: 450px;
+  background-color: white;
+
+}
+#vb22{
+  margin-top: 130px;
+}
+#vb22 h2{
+  color: pink;
+}
+#vb21{
+  /*margin-top: 20px;*/
+  padding: 10px;
+}
+#vb21 h2{
+  color: pink;
+}
+#vb31 {
+  margin: 10px;
+  padding: 10px;
+  margin-top: 0px;
+
+}
+#vb31 a{
+  color: pink;
+  border-bottom: 1px solid #cccccc;
+  padding: 10px;
+  display: block;
+
+}
+#vb32{
+  margin-top: 10px;
+  padding: 10px;
+}
+#footer{
+  width: 940px;
+  height: 40px;
+  background-color: #888888;
+  clear: both;
+}
+#footer p{
+  color: white;
+  padding: 10px;
+}
+a:hover {
+
+  color: #000000;
+}
+#vb32 h1{
+  color: pink;
+}
+#vb31 a:hover{
+  background-color: #cccccc;
+}
